@@ -204,10 +204,13 @@ Pizza Category and Order date were added as filters/slicers.
 
 
 # Report Snapshot (Power BI DESKTOP)
+
 Home Page
+
 ![Screenshot (3)](https://github.com/Lab1ba/PizzaSalesInsights/assets/100675446/84cf7f11-60e5-4b42-a147-18ce5d44dc93)
 
 Best/Worst Seller Page
+
 ![Screenshot (4)](https://github.com/Lab1ba/PizzaSalesInsights/assets/100675446/37d49668-34f2-41ee-932e-292a21a31c03)
 
  From the dashboard, the KPI’s values are exactly the same as the values got from SQL queries. 
